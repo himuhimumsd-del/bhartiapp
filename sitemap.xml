@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!--
+    ============================================================================
+    XML SITEMAP — भर्ती-App
+    ============================================================================
+    Search engine indexation roadmap.
+    DEPLOYMENT NOTE:
+    Replace 'https://bhartiapp.placeholder/' with your production URL
+    (e.g., https://yourdomain.com/) when deploying to hosting.
+    ============================================================================
+  -->
+  <url>
+    <loc>https://bhartiapp.placeholder/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>assets/hero-phones.png</image:loc>
+      <image:title>भर्ती-App Live Verified Network - Job Seeker Dashboard and Employer Suite</image:title>
+      <image:caption>Find your next dream role or hire verified talent with भर्ती-App</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>assets/jobseeker-banner.png</image:loc>
+      <image:title>भर्ती-App for Job Seekers - Build Your Career Faster</image:title>
+      <image:caption>Curated opportunities across technology, engineering, data, and product jobs</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>assets/employer-banner.png</image:loc>
+      <image:title>भर्ती-App for Employers - Verified Talent, Faster Hiring</image:title>
+      <image:caption>Candidate management, verified recruitment pipeline, and company profile</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>assets/gallery-banner.png</image:loc>
+      <image:title>Experience भर्ती-App - Complete Platform Walkthrough</image:title>
+      <image:caption>Four core mobile app screens connecting candidates and recruiters</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>assets/vip-banner.png</image:loc>
+      <image:title>भर्ती-App Executive Premium VIP Membership</image:title>
+      <image:caption>Unlock premium recruiter visibility and enhanced application features</image:caption>
+    </image:image>
+  </url>
+</urlset>
+

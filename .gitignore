@@ -1,0 +1,6 @@
+# Node & scratch artifacts
+node_modules/
+scratch/
+*.log
+.DS_Store
+Thumbs.db

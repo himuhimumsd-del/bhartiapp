@@ -1,0 +1,23 @@
+# ==============================================================================
+# robots.txt — भर्ती-App
+# ==============================================================================
+# Directives for search engine web crawlers (Googlebot, Bingbot, etc.)
+# Allows crawling of all public marketing, features, and documentation pages.
+# Restricts crawling of private routes, administrative areas, and API endpoints.
+# ==============================================================================
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
+Disallow: /*?*query=
+Disallow: /*?*preview=
+
+# ==============================================================================
+# SITEMAP LOCATION
+# Note: Upon deploying to your custom domain, update this line with your absolute URL:
+# Sitemap: https://yourdomain.com/sitemap.xml
+# ==============================================================================
+Sitemap: sitemap.xml
+
